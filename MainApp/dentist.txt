@@ -1,0 +1,9 @@
+Phineas - Friday, 10:30 AM
+peter - Tuesday, 10:30 AM
+ - Monday, 08:00 AM
+john - Monday, 08:00 AM
+james - Monday, 08:00 AM
+john - Friday, 12:00 PM
+james - Wednesday, 12:00 PM
+james  - Wednesday, 02:30 PM
+ - Monday, 08:00 AM
